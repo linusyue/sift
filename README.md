@@ -1,2 +1,2 @@
 # sift
-sift descripters
+sift descriptor
